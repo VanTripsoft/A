@@ -3,3 +3,4 @@ google.com, pub-8190506959251235, DIRECT, f08c47fec0942fa0
 facebook.com, 665404123959897, DIRECT, c3e20eee3f780d68
 facebook.com, 157517135307120, DIRECT, c3e20eee3f780d68
 facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
+vungle.com, 69ba242d4bae0d5981bf9f04, DIRECT, c107d686becd2d77
